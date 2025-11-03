@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=220&text=SankaVollerei&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=The%20Ultimate%20Anime%20%26%20Comic%20REST%20API&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=220&text=Sanka&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=The%20Ultimate%20Anime%20%26%20Comic%20REST%20API&descAlignY=58&descSize=18"/>
 </div>
 
 <p align="center">
   <a href="https://sankavollerei.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+SankaVollerei;%E2%9C%A8+Your+Gateway+to+Anime+%26+Comic+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+SankaApi;%E2%9C%A8+Your+Gateway+to+Anime+%26+Comic+Data" alt="Typing SVG" />
   </a>
 </p>
 
@@ -440,7 +440,7 @@ Support the development and server costs:
 
 ### Copyright Notice
 
-All anime and comic content metadata is sourced from publicly available information. We respect intellectual property rights and will promptly address any copyright concerns. For DMCA requests, please contact: legal@sankavollerei.com
+All anime and comic content metadata is sourced from publicly available information. We respect intellectual property rights and will promptly address any copyright concerns.
 
 ---
 
