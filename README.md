@@ -131,6 +131,7 @@ GET https://www.sankavollerei.com/comic
 - **Mangakita** - Manga reading platform
 - **SoulScans** - Scanlation group
 - **Meganei** - Manga platform
+- **Kiryuu** - Indonesian Manga platfrom
 - **Novelhubapp** - Novel platform
 - **Mangasusuku** - Adult manga content
 
