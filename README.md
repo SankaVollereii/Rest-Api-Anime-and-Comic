@@ -72,7 +72,7 @@ GET https://www.sankavollerei.com/comic
 ### 📥 Anime Downloader
 <p align="center">
   <a href="https://www.sankavollerei.com/download/anime">
-    <img src="https://img.shields.io/badge/Download_Anime-sankavollerei.com-95E1D3?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Download_Anime-sankavollerei.com%2Fdownload%2Fanime-95E1D3?style=for-the-badge" />
   </a>
 </p>
 
