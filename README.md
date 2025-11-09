@@ -77,7 +77,7 @@ GET https://www.sankavollerei.com/comic
 </p>
 
 ```
-GET https://www.sankavollerei.com/download/anime
+**Visit the page to download your favorite anime episodes**
 ```
 
 ---
