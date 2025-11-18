@@ -1,0 +1,27 @@
+name: Plana AI Auto Update
+on:
+  schedule:
+  #  - cron: '0 */1 * * *' # 1 jam
+    - cron: '*/15 * * * *' # 15 menit
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update file timestamp
+        run: |
+          export TZ='Asia/Jakarta'
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+          echo "Last auto update: $TIMESTAMP" > .github/Api_sanka_auto_update.txt
+       
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Plana AI: Auto Update'
+          file_pattern: '.github/Api_sanka_auto_update.txt'
+          commit_user_name: 'Plana AI'
+          commit_user_email: 'plana@sankanime.com'
