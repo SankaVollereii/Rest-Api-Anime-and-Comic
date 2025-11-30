@@ -422,7 +422,7 @@ Build watchlist and reading list applications
   </a>
 </p>
 
-**🔗 Platform Streaming:** [sankanime.com](https://sankanime.com/)
+**🔗 Platform Streaming:** [sankanime.com](https://link.sankanime.com/)
 
 </div>
 
