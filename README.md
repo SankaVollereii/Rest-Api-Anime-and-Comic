@@ -136,8 +136,8 @@ Visit https://www.sankavollerei.com/download/anime
 | **Kusonime** | Anime Downloader batch | [kusonime.com](https://kusonime.com) |
 | **Oploverz** | Anime streaming service | [oploverz.mom](https://oploverz.mom) |
 | **Anime Indo** | Indonesian anime streaming | [animeindo.lol](https://animeindo.lol) |
-| **Animekuindo** | Anime Streaming | [https://animekuindo.live](https://animekuindo.live) |
-| **Winbu** | Anime, Film Streaming & Download | [https://winbu.tv](https://winbu.tv) |
+| **Animekuindo** | Anime Streaming | [animekuindo.live](https://animekuindo.live) |
+| **Winbu** | Anime, Film Streaming & Download | [winbu.tv](https://winbu.tv) |
 | **Kuramanime** | Anime Streaming & Download | [v8.kuramanime.tel](https://v8.kuramanime.tel) |
 | **Nekopoi** | Adult anime content | [nekopoi.care](https://nekopoi.care) |
 
