@@ -146,7 +146,7 @@ Visit https://www.sankavollerei.com/download/anime
 | Platform | Description | URL |
 |----------|-------------|-----|
 | **Komiku** | Indonesian manga platform | [komiku.org](https://komiku.org) |
-| **BacaKomik** | Comic reading platform | [bacakomik.one](https://bacakomik.one) |
+| **BacaKomik** | Comic reading platform | [bacakomik.my](https://bacakomik.my) |
 | **Komikstation** | Manga station | [komikstation.org](https://komikstation.org) |
 | **Maid Comic** | Manga service | [maid.my.id](https://maid.my.id) |
 | **Komikindo** | Indonesian comic site | [komikindo.ch](https://komikindo.ch) |
