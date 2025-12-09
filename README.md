@@ -154,6 +154,7 @@ Visit https://www.sankavollerei.com/download/anime
 | **SoulScans** | Manga Indonesian platform | [soulscans.my.id](https://soulscans.my.id) |
 | **Meganei** | Manga platform | [meganei.net](https://meganei.net) |
 | **Komikcast** | Manga platform | [komikcast03.com](https://komikcast03.com) |
+| **Bacaman** | Manga Indo platform | [bacaman.id](https://bacaman.id) |
 | **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
 | **Novelhubapp** | Novel platform | [novelhubapp.com](https://novelhubapp.com) |
 | **MeioNovel** | Novel Indo platform | [meionovels.com](https://meionovels.com) |
