@@ -134,6 +134,7 @@ Visit https://www.sankavollerei.com/download/anime
 | **Anoboy** | Anime streaming service | [anoboy.be](https://anoboy.be) |
 | **Nimegami** | Anime Streaming & Download | [nimegami.id](https://nimegami.id) |
 | **Kusonime** | Anime Downloader batch | [kusonime.com](https://kusonime.com) |
+| **Alqanime** | Anime Downloader batch | [alqanime](https://alqanime.net) |
 | **Oploverz** | Anime streaming service | [oploverz.mom](https://oploverz.mom) |
 | **Anime Indo** | Indonesian anime streaming | [animeindo.lol](https://animeindo.lol) |
 | **Animekuindo** | Anime Streaming | [animekuindo.live](https://animekuindo.live) |
