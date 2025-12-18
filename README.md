@@ -140,6 +140,7 @@ Visit https://www.sankavollerei.com/download/anime
 | **Animekuindo** | Anime Streaming | [animekuindo.live](https://animekuindo.live) |
 | **Winbu** | Anime, Film Streaming & Download | [winbu.net](https://winbu.net) |
 | **Kuramanime** | Anime Streaming & Download | [v8.kuramanime.tel](https://v8.kuramanime.tel) |
+| **Animesail** | Anime Stream & Download | [animesail.com](https://animesail.com) |
 | **Nekopoi** | Adult anime content | [nekopoi.care](https://nekopoi.care) |
 
 ## 📚 Comic/Manga Sources
@@ -157,6 +158,7 @@ Visit https://www.sankavollerei.com/download/anime
 | **Komikcast** | Manga platform | [komikcast03.com](https://komikcast03.com) |
 | **Bacaman** | Manga Indo platform | [bacaman.id](https://bacaman.id) |
 | **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
+| **Cosmic Scans** | Indonesian Manga platform | [lc4.cosmicscans.asia](https://lc4.cosmicscans.asia) |
 | **Novelhubapp** | Novel platform | [novelhubapp.com](https://novelhubapp.com) |
 | **MeioNovel** | Novel Indo platform | [meionovels.com](https://meionovels.com) |
 | **Mangasusuku** | Adult manga content | [mangasusuku.com](https://mangasusuku.com) |
