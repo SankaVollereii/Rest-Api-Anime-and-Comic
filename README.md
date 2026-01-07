@@ -139,8 +139,10 @@ Visit https://www.sankavollerei.com/download/anime
 | **Anime Indo** | Indonesian anime streaming | [animeindo.lol](https://animeindo.lol) |
 | **Animekuindo** | Anime Streaming | [animekuindo.live](https://animekuindo.live) |
 | **Winbu** | Anime, Film Streaming & Download | [winbu.net](https://winbu.net) |
-| **Kuramanime** | Anime Streaming & Download | [v8.kuramanime.tel](https://v8.kuramanime.tel) |
+| **Kuramanime** | Anime Streaming & Download | [v9.kuramanime.tel](https://v9.kuramanime.tel) |
 | **Animesail** | Anime Stream & Download | [animesail.com](https://animesail.com) |
+| **Dramabox** | Drachin Content Stream | [www.dramabox.com](https://www.dramabox.com) |
+| **Drachin** | Drachin Content Stream Ver 2 | [secret](secret) |
 | **Nekopoi** | Adult anime content | [nekopoi.care](https://nekopoi.care) |
 
 ## 📚 Comic/Manga Sources
@@ -155,6 +157,7 @@ Visit https://www.sankavollerei.com/download/anime
 | **Mangakita** | Manga reading platform | [mangakita.id](https://mangakita.id) |
 | **SoulScans** | Manga Indonesian platform | [soulscans.my.id](https://soulscans.my.id) |
 | **Meganei** | Manga platform | [meganei.net](https://meganei.net) |
+| **Komikuindo** | Indonesian comic site | [secret](secret) |
 | **Komikcast** | Manga platform | [komikcast03.com](https://komikcast03.com) |
 | **Bacaman** | Manga Indo platform | [bacaman.id](https://bacaman.id) |
 | **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
