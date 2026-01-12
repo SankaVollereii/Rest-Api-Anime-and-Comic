@@ -139,7 +139,7 @@ Visit https://www.sankavollerei.com/download/anime
 | **Anime Indo** | Indonesian anime streaming | [animeindo.lol](https://animeindo.lol) |
 | **Animekuindo** | Anime Streaming | [animekuindo.live](https://animekuindo.live) |
 | **Winbu** | Anime, Film Streaming & Download | [winbu.net](https://winbu.net) |
-| **Kuramanime** | Anime Streaming & Download | [v9.kuramanime.tel](https://v10.kuramanime.tel) |
+| **Kuramanime** | Anime Streaming & Download | [v10.kuramanime.tel](https://v10.kuramanime.tel) |
 | **Animesail** | Anime Stream & Download | [animesail.com](https://animesail.com) |
 | **Dramabox** | Drachin Content Stream | [www.dramabox.com](https://www.dramabox.com) |
 | **Drachin** | Drachin Content Stream Ver 2 | [secret](secret) |
