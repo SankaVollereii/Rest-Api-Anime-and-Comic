@@ -141,6 +141,7 @@ Visit https://www.sankavollerei.com/download/anime
 | **Winbu** | Anime, Film Streaming & Download | [winbu.net](https://winbu.net) |
 | **Kuramanime** | Anime Streaming & Download | [v10.kuramanime.tel](https://v10.kuramanime.tel) |
 | **Animesail** | Anime Stream & Download | [animesail.com](https://animesail.com) |
+| **Donghub** | Chinese animation content | [donghub.vip](https://donghub.vip) |
 | **Dramabox** | Drachin Content Stream | [www.dramabox.com](https://www.dramabox.com) |
 | **Drachin** | Drachin Content Stream Ver 2 | [secret](secret) |
 | **Nekopoi** | Adult anime content | [nekopoi.care](https://nekopoi.care) |
@@ -160,8 +161,10 @@ Visit https://www.sankavollerei.com/download/anime
 | **Komikuindo** | Indonesian comic site | [secret](secret) |
 | **Komikcast** | Manga platform | [komikcast03.com](https://komikcast03.com) |
 | **Bacaman** | Manga Indo platform | [bacaman.id](https://bacaman.id) |
+| **Softkomik** | Manga Indo platform | [softkomik.com](https://softkomik.com) |
 | **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
 | **Cosmic Scans** | Indonesian Manga platform | [lc4.cosmicscans.asia](https://lc4.cosmicscans.asia) |
+
 | **Novelhubapp** | Novel platform | [novelhubapp.com](https://novelhubapp.com) |
 | **MeioNovel** | Novel Indo platform | [meionovels.com](https://meionovels.com) |
 | **Mangasusuku** | Adult manga content | [mangasusuku.com](https://mangasusuku.com) |
