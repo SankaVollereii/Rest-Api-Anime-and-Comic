@@ -162,6 +162,7 @@ Visit https://www.sankavollerei.com/download/anime
 | **Komikcast** | Manga platform | [komikcast03.com](https://komikcast03.com) |
 | **Bacaman** | Manga Indo platform | [bacaman.id](https://bacaman.id) |
 | **Softkomik** | Manga Indo platform | [softkomik.com](https://softkomik.com) |
+| **Westmanga** | Manga Indo platform | [westmanga.me](https://westmanga.me) |
 | **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
 | **Cosmic Scans** | Indonesian Manga platform | [lc4.cosmicscans.asia](https://lc4.cosmicscans.asia) |
 
