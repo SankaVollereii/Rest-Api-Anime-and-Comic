@@ -165,7 +165,6 @@ Visit https://www.sankavollerei.com/download/anime
 | **Westmanga** | Manga Indo platform | [westmanga.me](https://westmanga.me) |
 | **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
 | **Cosmic Scans** | Indonesian Manga platform | [lc4.cosmicscans.asia](https://lc4.cosmicscans.asia) |
-
 | **Novelhubapp** | Novel platform | [novelhubapp.com](https://novelhubapp.com) |
 | **MeioNovel** | Novel Indo platform | [meionovels.com](https://meionovels.com) |
 | **Mangasusuku** | Adult manga content | [mangasusuku.com](https://mangasusuku.com) |
