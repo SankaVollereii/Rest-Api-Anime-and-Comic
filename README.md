@@ -465,7 +465,7 @@ Build watchlist and reading list applications
 </div>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBv5edGk1Fo8WbsAK1V">
+  <a href="https://www.whatsapp.com/channel/0029Vb7fWF61CYoQMRaXBM1X">
     <img src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/sankanime34">
