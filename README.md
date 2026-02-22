@@ -468,7 +468,7 @@ Build watchlist and reading list applications
   <a href="https://www.whatsapp.com/channel/0029Vb7fWF61CYoQMRaXBM1X">
     <img src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://discord.gg/gKwpdjDsy2">
+  <a href="https://discord.gg/QrYdsSThM4">
     <img src="https://img.shields.io/badge/Server_Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
