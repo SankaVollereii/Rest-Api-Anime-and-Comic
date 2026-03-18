@@ -503,7 +503,7 @@ We welcome contributions! Feel free to submit pull requests or report issues.
 Support the development and server costs:
 
 <p align="center">
-  <a href="https://sociabuzz.com/sankanime/tribe">
+  <a href="https://trakteer.id/Sankanime/gift">
     <img src="https://img.shields.io/badge/Donate-Support_Development-FF6B6B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
