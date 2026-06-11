@@ -3,13 +3,13 @@
 </div>
 
 <p align="center">
-  <a href="https://www.sankavollerei.com">
+  <a href="https://www.sankavollerei.web.id">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+SankaApi;%E2%9C%A8+Restfull+Anime+%26+Comic+Api" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.sankavollerei.com"><img src="https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://www.sankavollerei.web.id"><img src="https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/100%25-FREE-00D9FF?style=for-the-badge" /></a>
 </p>
 
@@ -49,35 +49,35 @@
 
 ### 🎬 Anime API
 <p align="center">
-  <a href="https://www.sankavollerei.com/anime">
+  <a href="https://www.sankavollerei.web.id/anime">
     <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fanime-FF6B6B?style=for-the-badge" />
   </a>
 </p>
 
 ```
-GET https://www.sankavollerei.com/anime
+GET https://www.sankavollerei.web.id/anime
 ```
 
 ### 📖 Comic API
 <p align="center">
-  <a href="https://www.sankavollerei.com/comic">
+  <a href="https://www.sankavollerei.web.id/comic">
     <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fcomic-4ECDC4?style=for-the-badge" />
   </a>
 </p>
 
 ```
-GET https://www.sankavollerei.com/comic
+GET https://www.sankavollerei.web.id/comic
 ```
 
 ### 📥 Anime Downloader
 <p align="center">
-  <a href="https://www.sankavollerei.com/download/anime">
+  <a href="https://www.sankavollerei.web.id/download/anime">
     <img src="https://img.shields.io/badge/Download_Anime-sankavollerei.com%2Fdownload%2Fanime-95E1D3?style=for-the-badge" />
   </a>
 </p>
 
 ```
-Visit https://www.sankavollerei.com/download/anime
+Visit https://www.sankavollerei.web.id/download/anime
 ```
 
 ---
@@ -182,14 +182,14 @@ Visit https://www.sankavollerei.com/download/anime
 ```javascript
 // Fetch anime information
 const getAnimeData = async () => {
-  const response = await fetch('https://www.sankavollerei.com/anime/search/boruto');
+  const response = await fetch('https://www.sankavollerei.web.id/anime/search/boruto');
   const data = await response.json();
   return data;
 };
 
 // Fetch comic chapters
 const getComicChapters = async (comicId) => {
-  const response = await fetch(`https://www.sankavollerei.com/comic/chapter/${comicId}`);
+  const response = await fetch(`https://www.sankavollerei.web.id/comic/chapter/${comicId}`);
   const data = await response.json();
   return data;
 };
@@ -205,12 +205,12 @@ import requests
 
 # Search for anime
 def search_anime(query):
-    response = requests.get(f'https://www.sankavollerei.com/anime/search/{query}')
+    response = requests.get(f'https://www.sankavollerei.web.id/anime/search/{query}')
     return response.json()
 
 # Get comic details
 def get_comic_details(comic_id):
-    response = requests.get(f'https://www.sankavollerei.com/comic/chapter/{comic_id}')
+    response = requests.get(f'https://www.sankavollerei.web.id/comic/chapter/{comic_id}')
     return response.json()
 ```
 
@@ -222,14 +222,14 @@ def get_comic_details(comic_id):
 ```php
 // Fetch anime by genre
 function getAnimeByGenre($genre) {
-    $url = "https://www.sankavollerei.com/anime/genre/" . $genre;
+    $url = "https://www.sankavollerei.web.id/anime/genre/" . $genre;
     $response = file_get_contents($url);
     return json_decode($response, true);
 }
 
 // Get latest manga updates
 function getLatestManga() {
-    $url = "https://www.sankavollerei.com/comic/latest";
+    $url = "https://www.sankavollerei.web.id/comic/latest";
     $response = file_get_contents($url);
     return json_decode($response, true);
 }
@@ -404,14 +404,14 @@ Build watchlist and reading list applications
 </div>
 
 <p align="center">
-  <a href="https://www.sankavollerei.com/download/anime">
+  <a href="https://www.sankavollerei.web.id/download/anime">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Download+Your+Favorite;Anime+%26+instantly;Visit+Downloader+anime" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.sankavollerei.com/download/anime">
-    <img src="https://img.shields.io/badge/🌟_Visit-https://www.sankavollerei.com/download/anime-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.sankavollerei.web.id/download/anime">
+    <img src="https://img.shields.io/badge/🌟_Visit-https://www.sankavollerei.web.id/download/anime-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -429,12 +429,12 @@ Build watchlist and reading list applications
 ### 🌟 Streaming Anime Terlengkap & Tanpa Iklan
 
 <p align="center">
-  <a href="https://sankanime.com/">
-    <img src="https://img.shields.io/badge/🎬_WATCH_NOW-SANKANIME.COM-FF6B6B?style=for-the-badge&logo=play&logoColor=white" />
+  <a href="https://sankanime.web.id/">
+    <img src="https://img.shields.io/badge/🎬_WATCH_NOW-sankanime.web.id-FF6B6B?style=for-the-badge&logo=play&logoColor=white" />
   </a>
 </p>
 
-**🔗 Platform Streaming:** [sankanime.com](https://link.sankanime.com/)
+**🔗 Platform Streaming:** [sankanime.web.id](https://link.sankanime.web.id/)
 
 </div>
 
@@ -483,7 +483,7 @@ Build watchlist and reading list applications
   <a href="https://t.me/OnlySankaaa">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://sankanime.com/contactcs">
+  <a href="https://sankanime.web.id/contactcs">
     <img src="https://img.shields.io/badge/Contact_Me-%232B2A3C.svg?style=for-the-badge" alt="Contact Me" />
   </a>
 </p>
@@ -542,7 +542,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <h2>🚀 Start Building Amazing Projects Today!</h2>
   
-  <a href="https://www.sankavollerei.com">
+  <a href="https://www.sankavollerei.web.id">
     <img src="https://img.shields.io/badge/🌐_GET_STARTED-SANKAVOLLEREI.COM-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
