@@ -243,39 +243,39 @@ function getLatestManga() {
 
 ### 🎬 Anime Endpoints
 
+API Anime kami memiliki lebih dari **120+ endpoints** dari berbagai sumber (Otakudesu, Kuramanime, Samehadaku, Nekopoi, dll). Secara umum, pola endpointnya adalah `/anime/:source/endpoint`. Akses `/anime` di browser untuk UI Dokumentasi lengkap.
+
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/anime` | - | Get Dokumentasi Anime |
-| `/anime/home` | GET | Get home anime list |
-| `/anime/schedule` | GET | Get airing schedule |
-| `/anime/anime/{id}` | GET | Get anime details |
-| `/anime/complete-anime/{page}` | GET | Get complete anime |
-| `/anime/ongoing-anime?page={page}` | GET | Get ongoing anime |
-| `/anime/genre` | GET | Get all genre list |
-| `/anime/genre/{genre}` | GET | Filter by genre |
-| `/anime/episode/{id}` | GET | Get episode list |
-| `/anime/search` | GET | Search anime by query |
-| `/anime/batch/{id}` | GET | Get batch anime |
-| `/anime/unlimited` | GET | Get all anime list |
+| `/anime` | GET | **Tampilan UI HTML Dokumentasi Anime (Sangat Lengkap)** |
+| `/anime/home` | GET | (Default: Otakudesu) Rilis terbaru |
+| `/anime/:source/home` | GET | Halaman utama / Update terbaru dari sumber spesifik |
+| `/anime/:source/search/:query` | GET | Mencari anime berdasarkan judul |
+| `/anime/:source/detail/:slug` | GET | Informasi detail, sinopsis, dan daftar episode anime |
+| `/anime/:source/episode/:slug` | GET | Mendapatkan link streaming dan link download episode |
+| `/anime/:source/genres` | GET | Daftar semua genre yang tersedia di sumber tersebut |
+| `/anime/:source/genre/:slug` | GET | Mencari anime berdasarkan genre spesifik |
+| `/anime/nekopoi/hentai-list` | GET | (18+) Daftar lengkap Hentai dari Nekopoi |
+
+*Note: Ubah `:source` dengan nama sumber (contoh: `kura`, `samehadaku`, `kusonime`, `anoboy`, `nekopoi`).*
 
 ### 📚 Comic Endpoints
 
+Sama halnya dengan Anime, API Komik mendukung multi-sumber (Komiku, Kiryuu, Mangasusuku, dll) dengan struktur `/comic/:source/endpoint`. Akses `/comic` untuk dokumentasi UI.
+
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/comic` | - | Get Dokumentasi Comic |
-| `/comic/unlimited` | GET | Get all comics list |
-| `/comic/homepage` | GET | Get homepage comics |
-| `/comic/search` | GET | Search comics by query |
-| `/comic/comic/{id}` | GET | Get comic details |
-| `/comic/comic/chapter/{id}` | GET | Get chapter list |
-| `/comic/type/{type}` | GET | Filter by type comics |
-| `/comic/genre/{genre}` | GET | Filter by genre |
-| `/comic/terbaru` | GET | Get latest updates |
-| `/comic/populer` | GET | Get popular comics |
-| `/comic/trending` | GET | Get trending comics |
-| `/comic/random` | GET | Get random comics |
-| `/comic/recommendations` | GET | Get recommendations comics |
-| `/comic/berwarna/{page}` | GET | Get colored comics |
+| `/comic` | GET | **Tampilan UI HTML Dokumentasi Komik (Lengkap)** |
+| `/comic/homepage` | GET | (Default: Komiku) Daftar komik terbaru |
+| `/comic/:source/home` | GET | Update terbaru dari sumber spesifik |
+| `/comic/:source/search/:query` | GET | Mencari komik/manga berdasarkan judul |
+| `/comic/:source/manga/:slug` | GET | Informasi komik dan daftar lengkap chapter |
+| `/comic/:source/chapter/:slug` | GET | Daftar URL gambar per chapter untuk dibaca |
+| `/comic/:source/popular` | GET | Daftar manga terpopuler |
+| `/comic/:source/latest` | GET | Daftar manga yang baru saja update chapter |
+| `/comic/mangasusuku/home` | GET | (18+) Update terbaru komik dewasa dari Mangasusuku |
+
+*Note: Ubah `:source` dengan nama sumber (contoh: `kiryuu`, `mangasusuku`).*
 
 ---
 
