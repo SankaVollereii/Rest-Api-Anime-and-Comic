@@ -164,6 +164,7 @@ Visit https://www.sankavollerei.web.id/download/anime
 | **Softkomik** | Manga Indo platform | [softkomik.com](https://softkomik.com) |
 | **Westmanga** | Manga Indo platform | [westmanga.me](https://westmanga.me) |
 | **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
+| **Shinigami** | Best Indonesian Manga platform | [g.shinigami.asia](https://g.shinigami.asia) |
 | **Cosmic Scans** | Indonesian Manga platform | [lc4.cosmicscans.asia](https://lc4.cosmicscans.asia) |
 | **Novelhubapp** | Novel platform | [novelhubapp.com](https://novelhubapp.com) |
 | **SakuraNovel** | Novel Indo platform | [sakuranovel.id](https://sakuranovel.id) |
