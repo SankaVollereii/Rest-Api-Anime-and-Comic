@@ -24,4 +24,4 @@ jobs:
           commit_message: 'Plana AI Auto Update'
           file_pattern: '.github/Api_sanka_auto_update.txt'
           commit_user_name: 'Plana AI'
-          commit_user_email: 'plana@sankanime.com'
+          commit_user_email: 'plana@sankanime.web.id'
