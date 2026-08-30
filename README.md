@@ -32,51 +32,51 @@
 
 ## 🎯 Overview
 
-**Sanka Api** is a powerful, free REST API service that provides comprehensive access to anime and comic data. With coverage spanning from 1917 to the present day, our API offers developers a robust solution for building anime and comic-related applications.
+  ** Sanka Api ** is a powerful, free REST API service that provides comprehensive access to anime and comic data.With coverage spanning from 1917 to the present day, our API offers developers a robust solution for building anime and comic - related applications.
 
 ### ✨ Key Highlights
 
-- 📊 **50,000+** Anime titles in database
-- 📚 **100,000+** Manga & comic series
-- 🚀 **<100ms** Average response time
-- 🌍 **10M+** API calls served monthly
-- 🔄 **Real-time** updates for new releases
-- 🌐 **Multi-language** support (EN, ID, JP)
+  - 📊 ** 50,000 +** Anime titles in database
+    - 📚 ** 100,000 +** Manga & comic series
+      - 🚀 **< 100ms ** Average response time
+        - 🌍 ** 10M +** API calls served monthly
+          - 🔄 ** Real - time ** updates for new releases
+            - 🌐 ** Multi - language ** support(EN, ID, JP)
 
 ---
 
 ## 🔗 Quick Start
 
 ### 🎬 Anime API
-<p align="center">
-  <a href="https://www.sankavollerei.web.id/anime">
-    <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fanime-FF6B6B?style=for-the-badge" />
-  </a>
-</p>
+  < p align = "center" >
+    <a href="https://www.sankavollerei.web.id/anime">
+      <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fanime-FF6B6B?style=for-the-badge" />
+    </a>
+</p >
 
-```
+  ```
 GET https://www.sankavollerei.web.id/anime
 ```
 
 ### 📖 Comic API
-<p align="center">
-  <a href="https://www.sankavollerei.web.id/comic">
-    <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fcomic-4ECDC4?style=for-the-badge" />
-  </a>
-</p>
+  < p align = "center" >
+    <a href="https://www.sankavollerei.web.id/comic">
+      <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fcomic-4ECDC4?style=for-the-badge" />
+    </a>
+</p >
 
-```
+  ```
 GET https://www.sankavollerei.web.id/comic
 ```
 
 ### 📥 Anime Downloader
-<p align="center">
-  <a href="https://www.sankavollerei.web.id/download/anime">
-    <img src="https://img.shields.io/badge/Download_Anime-sankavollerei.com%2Fdownload%2Fanime-95E1D3?style=for-the-badge" />
-  </a>
-</p>
+  < p align = "center" >
+    <a href="https://www.sankavollerei.web.id/download/anime">
+      <img src="https://img.shields.io/badge/Download_Anime-sankavollerei.com%2Fdownload%2Fanime-95E1D3?style=for-the-badge" />
+    </a>
+</p >
 
-```
+  ```
 Visit https://www.sankavollerei.web.id/download/anime
 ```
 
@@ -87,34 +87,34 @@ Visit https://www.sankavollerei.web.id/download/anime
 ### 📺 Anime API Features
 
 #### Core Features
-- ✅ **Complete Database** - 50,000+ anime titles
-- ✅ **Episode Tracking** - Real-time episode updates
-- ✅ **Streaming Links** - Multiple quality options
-- ✅ **Advanced Search** - Title, genre, year, status
-- ✅ **Seasonal Anime** - Current & upcoming seasons
+  - ✅ ** Complete Database ** - 50,000 + anime titles
+    - ✅ ** Episode Tracking ** - Real - time episode updates
+      - ✅ ** Streaming Links ** - Multiple quality options
+        - ✅ ** Advanced Search ** - Title, genre, year, status
+          - ✅ ** Seasonal Anime ** - Current & upcoming seasons
 
 #### Extended Features
-- ✅ **Character Database** - 100,000+ characters
-- ✅ **Voice Actors** - Complete seiyuu information
-- ✅ **Reviews & Ratings** - Community ratings
-- ✅ **Watch History** - Track user progress
-- ✅ **Recommendations** - AI-powered suggestions
+  - ✅ ** Character Database ** - 100,000 + characters
+    - ✅ ** Voice Actors ** - Complete seiyuu information
+      - ✅ ** Reviews & Ratings ** - Community ratings
+        - ✅ ** Watch History ** - Track user progress
+          - ✅ ** Recommendations ** - AI - powered suggestions
 
 ### 📚 Comic API Features
 
 #### Core Features
-- ✅ **Vast Library** - Manga, manhwa, manhua
-- ✅ **Chapter Updates** - Real-time notifications
-- ✅ **Reading Links** - Multiple sources
-- ✅ **Genre Filtering** - 50+ genres
-- ✅ **Latest Releases** - Updated every hour
+  - ✅ ** Vast Library ** - Manga, manhwa, manhua
+    - ✅ ** Chapter Updates ** - Real - time notifications
+      - ✅ ** Reading Links ** - Multiple sources
+        - ✅ ** Genre Filtering ** - 50 + genres
+          - ✅ ** Latest Releases ** - Updated every hour
 
 #### Extended Features
-- ✅ **Author Database** - Creator information
-- ✅ **Publisher Info** - Official publishers
-- ✅ **Reading Lists** - Custom collections
-- ✅ **Translation Status** - Multiple languages
-- ✅ **Download Support** - Offline reading
+  - ✅ ** Author Database ** - Creator information
+    - ✅ ** Publisher Info ** - Official publishers
+      - ✅ ** Reading Lists ** - Custom collections
+        - ✅ ** Translation Status ** - Multiple languages
+          - ✅ ** Download Support ** - Offline reading
 
 ---
 
@@ -124,61 +124,61 @@ Visit https://www.sankavollerei.web.id/download/anime
 
 ## 🎬 Anime Sources
 
-| Platform | Description | URL |
-|----------|-------------|-----|
-| **Otakudesu** | Popular anime streaming source | [otakudesu.best](https://otakudesu.best) |
-| **Donghua** | Chinese animation content | [anichin.cafe](https://anichin.cafe) |
-| **Samehadaku** | Indonesian anime platform | [v1.samehadaku.how](https://v1.samehadaku.how) |
-| **Animasu** | Indonesian anime platform | [v1.animasu.top](https://v1.animasu.top) |
-| **Zoronime** | Indonesian anime platform | [zoronime.com](https://zoronime.com) |
-| **Anoboy** | Anime streaming service | [anoboy.be](https://anoboy.be) |
-| **Nimegami** | Anime Streaming & Download | [nimegami.id](https://nimegami.id) |
-| **Kusonime** | Anime Downloader batch | [kusonime.com](https://kusonime.com) |
-| **Alqanime** | Anime Downloader batch | [alqanime.net](https://alqanime.net) |
-| **Oploverz** | Anime streaming service | [oploverz.mom](https://oploverz.mom) |
-| **Anime Indo** | Indonesian anime streaming | [animeindo.lol](https://animeindo.lol) |
-| **Animekuindo** | Anime Streaming | [animekuindo.live](https://animekuindo.live) |
-| **Winbu** | Anime, Film Streaming & Download | [winbu.net](https://winbu.net) |
-| **Kuramanime** | Anime Streaming & Download | [v10.kuramanime.tel](https://v10.kuramanime.tel) |
-| **Animekompi** | Anime Stream & Download | [v7.animekompi.sbs](https://v7.animekompi.sbs) |
-| **Donghub** | Chinese animation content | [donghub.vip](https://donghub.vip) |
-| **Dramabox** | Drachin Content Stream | [www.dramabox.com](https://www.dramabox.com) |
-| **Drachin** | Drachin Content Stream Ver 2 | [secret](secret) |
-| **Nekopoi** | Adult anime content | [nekopoi.care](https://nekopoi.care) |
+  | Platform | Description | URL |
+| ----------| -------------| -----|
+| ** Otakudesu ** | Popular anime streaming source | [otakudesu.best](https://otakudesu.best) |
+| ** Donghua ** | Chinese animation content | [anichin.cafe](https://anichin.cafe) |
+| ** Samehadaku ** | Indonesian anime platform | [v1.samehadaku.how](https://v1.samehadaku.how) |
+| ** Animasu ** | Indonesian anime platform | [v1.animasu.top](https://v1.animasu.top) |
+| ** Zoronime ** | Indonesian anime platform | [zoronime.com](https://zoronime.com) |
+| ** Anoboy ** | Anime streaming service | [anoboy.be](https://anoboy.be) |
+| ** Nimegami ** | Anime Streaming & Download | [nimegami.id](https://nimegami.id) |
+| ** Kusonime ** | Anime Downloader batch | [kusonime.com](https://kusonime.com) |
+| ** Alqanime ** | Anime Downloader batch | [alqanime.net](https://alqanime.net) |
+| ** Oploverz ** | Anime streaming service | [oploverz.mom](https://oploverz.mom) |
+| ** Anime Indo ** | Indonesian anime streaming | [animeindo.lol](https://animeindo.lol) |
+| ** Animekuindo ** | Anime Streaming | [animekuindo.live](https://animekuindo.live) |
+| ** Winbu ** | Anime, Film Streaming & Download | [winbu.net](https://winbu.net) |
+| ** Kuramanime ** | Anime Streaming & Download | [v10.kuramanime.tel](https://v10.kuramanime.tel) |
+| ** Animekompi ** | Anime Stream & Download | [v7.animekompi.sbs](https://v7.animekompi.sbs) |
+| ** Donghub ** | Chinese animation content | [donghub.vip](https://donghub.vip) |
+| ** Dramabox ** | Drachin Content Stream | [www.dramabox.com](https://www.dramabox.com) |
+| ** Drachin ** | Drachin Content Stream Ver 2 | [secret](secret) |
+| ** Nekopoi ** | Adult anime content | [nekopoi.care](https://nekopoi.care) |
 
-## 📚 Comic/Manga Sources
+## 📚 Comic / Manga Sources
 
-| Platform | Description | URL |
-|----------|-------------|-----|
-| **Komiku** | Indonesian manga platform | [komiku.org](https://komiku.org) |
-| **BacaKomik** | Comic reading platform | [bacakomik.my](https://bacakomik.my) |
-| **Komikstation** | Manga station | [komikstation.org](https://komikstation.org) |
-| **Maid Comic** | Manga service | [maid.my.id](https://maid.my.id) |
-| **Komikindo** | Indonesian comic site | [komikindo.ch](https://komikindo.ch) |
-| **Mangakita** | Manga reading platform | [mangakita.id](https://mangakita.id) |
-| **SoulScans** | Manga Indonesian platform | [soulscans.my.id](https://soulscans.my.id) |
-| **Meganei** | Manga platform | [meganei.net](https://meganei.net) |
-| **Komikuindo** | Indonesian comic site | [secret](secret) |
-| **Komikcast** | Manga platform | [komikcast03.com](https://komikcast03.com) |
-| **Bacaman** | Manga Indo platform | [bacaman.id](https://bacaman.id) |
-| **Softkomik** | Manga Indo platform | [softkomik.com](https://softkomik.com) |
-| **Westmanga** | Manga Indo platform | [westmanga.me](https://westmanga.me) |
-| **Kiryuu** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
-| **Shinigami** | Best Indonesian Manga platform | [g.shinigami.asia](https://g.shinigami.asia) |
-| **Cosmic Scans** | Indonesian Manga platform | [lc4.cosmicscans.asia](https://lc4.cosmicscans.asia) |
-| **Novelhubapp** | Novel platform | [novelhubapp.com](https://novelhubapp.com) |
-| **SakuraNovel** | Novel Indo platform | [sakuranovel.id](https://sakuranovel.id) |
-| **MeioNovel** | Novel Indo platform | [meionovels.com](https://meionovels.com) |
-| **Mangasusuku** | Adult manga content | [mangasusuku.com](https://mangasusuku.com) |
+  | Platform | Description | URL |
+| ----------| -------------| -----|
+| ** Komiku ** | Indonesian manga platform | [komiku.org](https://komiku.org) |
+| ** BacaKomik ** | Comic reading platform | [bacakomik.my](https://bacakomik.my) |
+| ** Komikstation ** | Manga station | [komikstation.org](https://komikstation.org) |
+| ** Maid Comic ** | Manga service | [maid.my.id](https://maid.my.id) |
+| ** Komikindo ** | Indonesian comic site | [komikindo.ch](https://komikindo.ch) |
+| ** Mangakita ** | Manga reading platform | [mangakita.id](https://mangakita.id) |
+| ** SoulScans ** | Manga Indonesian platform | [soulscans.my.id](https://soulscans.my.id) |
+| ** Meganei ** | Manga platform | [meganei.net](https://meganei.net) |
+| ** Komikuindo ** | Indonesian comic site | [secret](secret) |
+| ** Komikcast ** | Manga platform | [komikcast03.com](https://komikcast03.com) |
+| ** Bacaman ** | Manga Indo platform | [bacaman.id](https://bacaman.id) |
+| ** Softkomik ** | Manga Indo platform | [softkomik.com](https://softkomik.com) |
+| ** Westmanga ** | Manga Indo platform | [westmanga.me](https://westmanga.me) |
+| ** Kiryuu ** | Indonesian Manga platform | [kiryuu03.com](https://kiryuu03.com) |
+| ** Shinigami ** | Best Indonesian Manga platform | [g.shinigami.asia](https://g.shinigami.asia) |
+| ** Cosmic Scans ** | Indonesian Manga platform | [lc4.cosmicscans.asia](https://lc4.cosmicscans.asia) |
+| ** Novelhubapp ** | Novel platform | [novelhubapp.com](https://novelhubapp.com) |
+| ** SakuraNovel ** | Novel Indo platform | [sakuranovel.id](https://sakuranovel.id) |
+| ** MeioNovel ** | Novel Indo platform | [meionovels.com](https://meionovels.com) |
+| ** Mangasusuku ** | Adult manga content | [mangasusuku.com](https://mangasusuku.com) |
 
----
+    ---
 
 ## 💻 API Usage Examples
 
 ### 🔧 Quick Integration
 
-<details>
-<summary><b>JavaScript / Node.js</b></summary>
+  < details >
+  <summary><b>JavaScript / Node.js</b></summary>
 
 ```javascript
 // Fetch anime information
@@ -192,7 +192,7 @@ const getAnimeData = async () => {
 const getComicChapters = async (comicId) => {
   const response = await fetch(`https://www.sankavollerei.web.id/comic/chapter/${comicId}`);
   const data = await response.json();
-  return data;
+return data;
 };
 ```
 
@@ -206,14 +206,14 @@ import requests
 
 # Search for anime
 def search_anime(query):
-    response = requests.get(f'https://www.sankavollerei.web.id/anime/search/{query}')
-    return response.json()
+  response = requests.get(f'https://www.sankavollerei.web.id/anime/search/{query}')
+return response.json()
 
 # Get comic details
 def get_comic_details(comic_id):
-    response = requests.get(f'https://www.sankavollerei.web.id/comic/chapter/{comic_id}')
-    return response.json()
-```
+response = requests.get(f'https://www.sankavollerei.web.id/comic/chapter/{comic_id}')
+return response.json()
+  ```
 
 </details>
 
@@ -223,16 +223,16 @@ def get_comic_details(comic_id):
 ```php
 // Fetch anime by genre
 function getAnimeByGenre($genre) {
-    $url = "https://www.sankavollerei.web.id/anime/genre/" . $genre;
-    $response = file_get_contents($url);
-    return json_decode($response, true);
+  $url = "https://www.sankavollerei.web.id/anime/genre/".$genre;
+  $response = file_get_contents($url);
+  return json_decode($response, true);
 }
 
 // Get latest manga updates
 function getLatestManga() {
-    $url = "https://www.sankavollerei.web.id/comic/latest";
-    $response = file_get_contents($url);
-    return json_decode($response, true);
+  $url = "https://www.sankavollerei.web.id/comic/latest";
+  $response = file_get_contents($url);
+  return json_decode($response, true);
 }
 ```
 
@@ -244,39 +244,39 @@ function getLatestManga() {
 
 ### 🎬 Anime Endpoints
 
-API Anime kami memiliki lebih dari **120+ endpoints** dari berbagai sumber (Otakudesu, Kuramanime, Samehadaku, Nekopoi, dll). Secara umum, pola endpointnya adalah `/anime/:source/endpoint`. Akses `/anime` di browser untuk UI Dokumentasi lengkap.
+API Anime kami memiliki lebih dari **120+ endpoints** dari berbagai sumber (Otakudesu, Kuramanime, Samehadaku, Nekopoi, dll). Secara umum, pola endpointnya adalah `/ anime /: source / endpoint`. Akses ` / anime` di browser untuk UI Dokumentasi lengkap.
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/anime` | GET | **Tampilan UI HTML Dokumentasi Anime (Sangat Lengkap)** |
-| `/anime/home` | GET | (Default: Otakudesu) Rilis terbaru |
-| `/anime/:source/home` | GET | Halaman utama / Update terbaru dari sumber spesifik |
-| `/anime/:source/search/:query` | GET | Mencari anime berdasarkan judul |
-| `/anime/:source/detail/:slug` | GET | Informasi detail, sinopsis, dan daftar episode anime |
-| `/anime/:source/episode/:slug` | GET | Mendapatkan link streaming dan link download episode |
-| `/anime/:source/genres` | GET | Daftar semua genre yang tersedia di sumber tersebut |
-| `/anime/:source/genre/:slug` | GET | Mencari anime berdasarkan genre spesifik |
-| `/anime/nekopoi/hentai-list` | GET | (18+) Daftar lengkap Hentai dari Nekopoi |
+| `/ anime` | GET | **Tampilan UI HTML Dokumentasi Anime (Sangat Lengkap)** |
+| `/ anime / home` | GET | (Default: Otakudesu) Rilis terbaru |
+| `/ anime /: source / home` | GET | Halaman utama / Update terbaru dari sumber spesifik |
+| `/ anime /: source / search /: query` | GET | Mencari anime berdasarkan judul |
+| `/ anime /: source / detail /: slug` | GET | Informasi detail, sinopsis, dan daftar episode anime |
+| `/ anime /: source / episode /: slug` | GET | Mendapatkan link streaming dan link download episode |
+| `/ anime /: source / genres` | GET | Daftar semua genre yang tersedia di sumber tersebut |
+| `/ anime /: source / genre /: slug` | GET | Mencari anime berdasarkan genre spesifik |
+| `/ anime / nekopoi / hentai - list` | GET | (18+) Daftar lengkap Hentai dari Nekopoi |
 
-*Note: Ubah `:source` dengan nama sumber (contoh: `kura`, `samehadaku`, `kusonime`, `anoboy`, `nekopoi`).*
+*Note: Ubah `: source` dengan nama sumber (contoh: `kura`, `samehadaku`, `kusonime`, `anoboy`, `nekopoi`).*
 
 ### 📚 Comic Endpoints
 
-Sama halnya dengan Anime, API Komik mendukung multi-sumber (Komiku, Kiryuu, Mangasusuku, dll) dengan struktur `/comic/:source/endpoint`. Akses `/comic` untuk dokumentasi UI.
+Sama halnya dengan Anime, API Komik mendukung multi-sumber (Komiku, Kiryuu, Mangasusuku, dll) dengan struktur `/ comic /: source / endpoint`. Akses ` / comic` untuk dokumentasi UI.
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
-| `/comic` | GET | **Tampilan UI HTML Dokumentasi Komik (Lengkap)** |
-| `/comic/homepage` | GET | (Default: Komiku) Daftar komik terbaru |
-| `/comic/:source/home` | GET | Update terbaru dari sumber spesifik |
-| `/comic/:source/search/:query` | GET | Mencari komik/manga berdasarkan judul |
-| `/comic/:source/manga/:slug` | GET | Informasi komik dan daftar lengkap chapter |
-| `/comic/:source/chapter/:slug` | GET | Daftar URL gambar per chapter untuk dibaca |
-| `/comic/:source/popular` | GET | Daftar manga terpopuler |
-| `/comic/:source/latest` | GET | Daftar manga yang baru saja update chapter |
-| `/comic/mangasusuku/home` | GET | (18+) Update terbaru komik dewasa dari Mangasusuku |
+| `/ comic` | GET | **Tampilan UI HTML Dokumentasi Komik (Lengkap)** |
+| `/ comic / homepage` | GET | (Default: Komiku) Daftar komik terbaru |
+| `/ comic /: source / home` | GET | Update terbaru dari sumber spesifik |
+| `/ comic /: source / search /: query` | GET | Mencari komik/manga berdasarkan judul |
+| `/ comic /: source / manga /: slug` | GET | Informasi komik dan daftar lengkap chapter |
+| `/ comic /: source / chapter /: slug` | GET | Daftar URL gambar per chapter untuk dibaca |
+| `/ comic /: source / popular` | GET | Daftar manga terpopuler |
+| `/ comic /: source / latest` | GET | Daftar manga yang baru saja update chapter |
+| `/ comic / mangasusuku / home` | GET | (18+) Update terbaru komik dewasa dari Mangasusuku |
 
-*Note: Ubah `:source` dengan nama sumber (contoh: `kiryuu`, `mangasusuku`).*
+*Note: Ubah `: source` dengan nama sumber (contoh: `kiryuu`, `mangasusuku`).*
 
 ---
 
@@ -504,7 +504,7 @@ We welcome contributions! Feel free to submit pull requests or report issues.
 Support the development and server costs:
 
 <p align="center">
-  <a href="https://trakteer.id/Sankanime/gift">
+  <a href="https://sankanime.web.id/donatur">
     <img src="https://img.shields.io/badge/Donate-Support_Development-FF6B6B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
