@@ -48,7 +48,7 @@
 ## 🔗 Quick Start
 
 ### 🎬 Anime API
-  < p align = "center" >
+  <p align="center" >
     <a href="https://www.sankavollerei.web.id/anime">
       <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fanime-FF6B6B?style=for-the-badge" />
     </a>
@@ -59,7 +59,7 @@ GET https://www.sankavollerei.web.id/anime
 ```
 
 ### 📖 Comic API
-  < p align = "center" >
+  <p align="center" >
     <a href="https://www.sankavollerei.web.id/comic">
       <img src="https://img.shields.io/badge/Access_API-sankavollerei.com%2Fcomic-4ECDC4?style=for-the-badge" />
     </a>
@@ -70,7 +70,7 @@ GET https://www.sankavollerei.web.id/comic
 ```
 
 ### 📥 Anime Downloader
-  < p align = "center" >
+  <p align="center" >
     <a href="https://www.sankavollerei.web.id/download/anime">
       <img src="https://img.shields.io/badge/Download_Anime-sankavollerei.com%2Fdownload%2Fanime-95E1D3?style=for-the-badge" />
     </a>
